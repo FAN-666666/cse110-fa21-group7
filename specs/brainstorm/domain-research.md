@@ -27,6 +27,20 @@ index for a search engine's web scraper.
 
 Coming soon
 
+**APIs for getting recipes**
+
+recipe-scraper
+
+A NodeJS package for scraping recipes from a wide array of websites.  Free to use, we just need to import the scripts for specific websites.  Returns a recipe object with name, ingredients, instructions, image, time, etc.  Has error handling and was last updated 5 months ago.
+
+https://github.com/jadkins89/Recipe-Scraper#readme
+
+
+Allrecipes Scraper
+
+Apify actor for extracting data about actors from Allrecipes. It allows you to extract all recipes for the given search text and/or the given list of start urls. Requires Apify SDK which has a free service for limited usage.  
+
+https://github.com/dtrungtin/actor-allrecipes-scraper
 
 
 
