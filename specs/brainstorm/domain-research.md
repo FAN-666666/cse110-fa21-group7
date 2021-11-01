@@ -43,5 +43,16 @@ Apify actor for extracting data about actors from Allrecipes. It allows you to e
 https://github.com/dtrungtin/actor-allrecipes-scraper
 
 
+Spoonacular
+
+A paid API service which provides the cost of different foods, allows for a free account but it'll probably get deactivated after a typical amount of development / light usage.  
+https://spoonacular.com/food-api/docs/visualize-recipe-cost
+
+
+USDA FoodData Central
+
+Provides nutrition facts for a wide variety of foods. 
+
+https://fdc.nal.usda.gov/
 
 
