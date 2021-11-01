@@ -55,4 +55,8 @@ Provides nutrition facts for a wide variety of foods.
 
 https://fdc.nal.usda.gov/
 
+Krogers Grocery API
 
+The Products API has a limit of 10,000 calls per day which should allow us to search for foods and get their price.  
+
+https://developer.kroger.com/documentation/public/getting-started/quick-start
